@@ -210,6 +210,10 @@
             {
                 "elementName": "Search",
                 "elementURL": "https://github.com/AntennaPod/AntennaPod/pull/4435"
+            },
+            {
+                "elementName": "Funding",
+                "elementURL": "https://github.com/AntennaPod/AntennaPod/pull/4933"
             }
         ]
     },
